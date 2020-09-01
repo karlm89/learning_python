@@ -6,7 +6,7 @@ print("Choices: \n 1).Rock \n 2).Paper \n 3).Scissors")
 p1 = input(f'{p1_name} Chooses : ').capitalize()
 
 # Print some stuff to keep player 1 choice hidden
-for x in range(30) :
+for x in range(40) :
     print("** No Cheating **")
 
 p2 = input(f'{p2_name} Chooses : ').capitalize()
